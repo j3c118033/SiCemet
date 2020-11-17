@@ -1,0 +1,49 @@
+body {
+	color : #FFFFFF;
+	font-family : 'Open Sans', 'Helvetica', 'Segoe UI';
+	font-size : 14px;
+}
+
+.section {
+	padding : 20px 0;
+}
+
+.container {
+	width : 1056px;
+	margin : auto;
+}
+
+h4, h3, p {
+	color:black;
+}
+
+#section1 {
+	padding:10dp;
+}
+
+#section1 ul>li>a {
+	color : black;
+}
+
+#section1 ul>li:hover {
+	background-color:#FBEEE6;
+}
+
+#section2 {
+	background-color:white;
+	margin-top : 70px;
+}
+
+#section3 {
+	background-color : #FAD7a0;
+	padding : 20px;
+}
+
+#section4 {
+	background-color : white;
+}
+
+#section4 {
+	background-color : white;
+	position : center;
+}

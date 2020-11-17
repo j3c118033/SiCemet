@@ -1,0 +1,65 @@
+body {
+	color : #FFFFFF;
+	font-family : 'Open Sans', 'Helvetica', 'Segoe UI';
+	font-size : 14px;
+}
+
+.section {
+	padding : 20px 0;
+}
+
+.container {
+	width : 1056px;
+	margin : auto;
+}
+
+.clear {
+	clear :both;
+}
+
+.right {
+	float : right;
+}
+
+.left {
+	float : right;
+}
+
+h2, p, h3, i {
+	color : black;
+}
+
+h4 {
+	 color : black;
+	 font-family :Segoe UI;
+ }
+ 
+ i {
+	 position : center;
+ }
+
+#section1 {
+	padding:10dp;
+}
+
+#section1 ul>li>a {
+	color : black;
+}
+
+#section1 ul>li:hover {
+	background-color:#FBEEE6;
+}
+
+#section3 {
+	background-color : #FAD7a0 ;
+	position : center;
+}
+
+#section4 {
+	background-color : white ;
+}
+
+#section5 {
+	background-color : white;
+	position : center;
+}
